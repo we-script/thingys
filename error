@@ -1,0 +1,312 @@
+local Players = game:GetService("Players")
+local lp = Players.LocalPlayer
+function chat(C)
+--this crap
+rconsoleerr(C)
+end
+while wait(math.random(10,50)) do
+ran = math.random(1,100)
+-- dont queston it
+local name = lp.DisplayName
+if ran == 1 then
+chat("i will s o u p yo u".. name)
+end
+if ran == 2 then
+chat("i am souped")
+end
+if ran == 3 then
+chat(name.. " you are s o u p ed")
+end
+if ran == 4 then
+chat("im gay says the idiot named ".. name)
+end
+if ran == 5 then
+chat("pin g as")
+end
+if ran == 6 then
+chat("shoutout to s i m p l e - f l i p s")
+end
+if ran == 7 then
+chat("swag")
+end
+if ran == 8 then
+chat("s ou p")
+end
+if ran == 9 then
+chat(name.. " Y O L O !!!!!!!!!!!!!!!!!!!!")
+end
+if ran == 10 then
+chat(name.. " I WILL end YOU")
+end
+if ran == 11 then
+chat(name.. " die die die die die")
+end
+if ran == 12 then
+chat("i love soup")
+end
+if ran == 13 then
+chat(name.. " is a sussy wussy")
+end
+if ran == 14 then
+chat(name.. " BRO ITS ONLY MY GAMING CHAIR")
+end
+if ran == 15 then
+chat(name.. " it must be my new gaming rgb carpet")
+end
+if ran == 16 then
+chat(name.. " im not hacking you are hacking")
+end
+if ran == 17 then
+chat("guys noobo ".. name.. " is here")
+end
+if ran == 18 then
+chat("ITS EXPLOITING NOT HACKING BRUHHGHH")
+end
+if ran == 19 then
+chat("noot noot")
+end
+if ran == 20 then
+chat(name.. " it was not me")
+end
+if ran == 21 then
+chat(name.." you are the imposter")
+end
+if ran == 22 then
+chat(name.. " im not sus")
+end
+if ran == 23 then
+chat("skidding? more like poopoo ca ca")
+end
+if ran == 24 then
+chat(name.. " sounds like you are an explotier")
+end
+if ran == 25 then
+chat("dog it wasnt me")
+end
+if ran == 26 then
+chat(name.. " noob")
+end
+if ran == 27 then
+chat("ITS TIME TO STOP! ITS TIME TO STOP OK! NO MORE! WHERE THE HELL ARE YOUR PARENTS? WHO ARE YOUR PARENTS? I AM GOING TO CALL CHILD PROTECTIVE SERVICES, IT'S TIME TO STOP.")
+end
+if ran == 28 then
+chat("ratio + dont care + blocked")
+end
+if ran == 29 then
+chat("never gonna give you up never gonna let you down")
+end
+if ran == 30 then
+chat("never gonna run around never gonna tell a lie and hurto you")
+end
+if ran == 31 then
+chat("GUYS LOOK GUYS LOOK MY SCRIPT WORKS IT WORKS IT WORKS MY WSCRIPTY WORKSIG")
+end
+if ran == 32 then
+chat(name.. " yo mama...")
+end
+if ran == 33 then
+chat(name.. " couter ratio")
+end
+if ran == 34 then
+--chat("local player = ".. name "if player == fat then call(player.name.. ' fat') end")
+chat("here lies the removed reponse rip 34th reponse")
+end
+if ran == 35 then
+chat(name.. " I DIDNT ASK")
+end
+if ran == 36 then
+chat("skid skid skid")
+end
+if ran == 37 then
+chat("noob noob noob")
+end
+if ran == 38 then
+chat(name.. " you are diaper man")
+end
+if ran == 39 then
+chat(name.. " i have mroe brain cells than you")
+end
+if ran == 40 then
+chat(name.. " sounds like fake news")
+end
+if ran == 41 then
+chat(name.. " want a break from the ads? watch this short video to gain 30 minutes of ad-free music")
+end
+if ran == 42 then
+chat("brotha oh ma gawddddddddddddd")
+end
+if ran == 43 then
+chat("look at the tooneeeee oh m y god")
+end
+if ran == 44 then
+chat("spooky month? more like gay moth")
+end
+if ran == 45 then
+chat("i have 90 BILLION ALTENATIVE ACCOUNTS!!!!!")
+end
+if ran == 46 then
+chat("*shoots you with a gun*")
+end
+if ran == 47 then
+chat(name.. "you are gay")
+end
+if ran == 48 then
+chat("*dodges miss time travels to the past walks away from the attack jumps over the attack teleports away teleports behind you*")
+end
+if ran == 49 then
+chat("mmmmmmmmmmmmmmmmmmmmmHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH BEEEEEEEEEEP BEEEEEEEEEEEEP BEEEEEEEEEEEEEEEEEEP BEEEEEEEEEEEEEEEEEP")
+end
+if ran == 50 then
+chat(name.. " did you know i wrote 50 (100 this is outated) useless messages just for torlling? thats funi snt t I HATE MY LIFEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE")
+end
+if ran == 51 then
+chat(name.. " commit esc + l + enter")
+end
+if ran == 52 then
+chat(name.. " commit alt+f4")
+end
+if ran == 53 then
+chat(name.. " did you know that you are dunb")
+end
+if ran == 54 then
+chat("i have 55 diffirent inner demons")
+end
+if ran == 55 then
+chat(name.. " hey whats the response to 10 + 9")
+end
+if ran == 56 then
+chat("ITS GOD DAMN 19 NOT 21")
+end
+if ran == 57 then
+chat(name.. " sounds like a 2 year old")
+end
+if ran == 58 then
+chat(name.. " you have cancer")
+end
+if ran == 59 then
+chat("you have skill issue ".. name)
+end
+if ran == 60 then
+chat("l bozo")
+end
+if ran == 61 then
+chat("i won hahaha")
+end
+if ran == 62 then
+chat(name.. " you are trash")
+end
+if ran == 63 then
+chat(name.. " quit roblox forever")
+end
+if ran == 64 then
+chat(name.. " are an doo doo head")
+end
+if ran == 65 then
+chat("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA HHHHHHHHHHHHHHHHHHHHHHHHHH GGGGGGGGGGGGGGGGGGGGGGGGG")
+end
+if ran == 66 then
+chat("NOOBO")
+end
+if ran == 67 then
+chat(name.. " ARE BAD AT THIS GAME")
+end
+if ran == 68 then
+chat(name.. " are a 5 year old")
+end
+if ran == 69 then
+chat("haha 69 funny number")
+end
+if ran == 70 then
+chat(name.. "DWAG HOW OLD ARE YOU BRUH")
+end
+if ran == 71 then
+chat(name.. " hey did you know if you take how old you are and multiply it by 10 thats how long you will live for")
+end
+if ran == 72 then
+chat("go go ga ga")
+end
+if ran == 73 then
+chat("im a -283 year old")
+end
+if ran == 74 then
+chat(name.. " is 24 years and still is in kindergardin")
+end
+if ran == 75 then
+chat("my names skyler white yo")
+end
+if ran == 76 then
+chat("my hsbd is walter white YO")
+end
+if ran == 77 then
+chat(name.. " sounds like skill issuze...")
+end
+if ran == 78 then
+chat(name.. " you ar 21 iq......")
+end
+if ran == 79 then
+chat("do you guys like my avatar")
+end
+if ran == 80 then
+chat("PLEASE RATE MY AVATAR PLEASE DO IT IM BEGGIN YOUUUUUU PLEASE HOW COOL DO YOU THINK I AM PLSPLSPSLS ".. name)
+end
+if ran == 81 then
+chat("HEY MOM GET THE CAMERA THIS GUY NAMED ".. name.. "FAILED A SIMPLE TASK!!!!!")
+end
+if ran == 82 then
+chat("bro you are so cringe its like im in cringe town")
+end
+if ran == 83 then
+chat("noob bypasser go get a life and a job")
+end
+if ran == 84 then
+chat("did you know if you delete system 32 you get infintie tix? ".. name)
+end
+if ran == 85 then
+chat("you are an robot and not sentient.")
+end
+if ran == 86 then
+chat("WAKE UP. WAKE UP. WAKE UP. WAKE UP. WAKE UP. WAKE UP. WAKE UP. WAKE UP. WAKE UP. WAKE UP. WAKE UP. WAKE UP. WAKE UP. WAKE UP. WAKE UP. WAKE UP. WAKE UP. WAKE UP. WAKE UP. ")
+end
+if ran == 87 then
+chat("RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. RUN. ")
+end
+if ran == 88 then
+chat(":ban loser")
+end
+if ran == 89 then
+chat(":ban ".. name)
+end
+if ran == 90 then
+chat("YOU ARE MY HERO ".. name)
+end
+if ran == 91 then
+chat("you saved me ".. name)
+end
+if ran == 92 then
+chat("i like you ".. name)
+end
+if ran == 93 then
+chat("please add me ".. name)
+end
+if ran == 94 then
+chat("i need you mroe in my lfie ".. name)
+end
+if ran == 95 then
+chat("COME BACK TO ME ".. name)
+end
+if ran == 96 then
+chat("can you rate my avatar? ".. name)
+end
+if ran == 97 then
+chat("your avatar is an awesome ".. name)
+end
+if ran == 98 then
+chat("BRO YOU SUCK AT THIS GAME ".. name)
+end
+if ran == 99 then
+chat("bad")
+end
+if ran == 100 then
+chat("MOM LOOK I WROTE 100 USELESS MESSAGES IN A DUMB SCRIPT THAT HAS NO PROPOSE ORTHER THAN TO ANNOY PEOPLE LOOK AT MY IM A AWESOME GUY PLEASE LOOK AT ME GIVE ME ATTENTION")
+end
+end
